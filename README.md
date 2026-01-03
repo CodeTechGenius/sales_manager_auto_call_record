@@ -1,0 +1,1 @@
+# sales_manager_auto_call_record
